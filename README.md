@@ -26,6 +26,26 @@
 
 欢迎大家提Issues,也请大家帮忙点个赞,谢谢~~!
 
+## 相关文档
+gitee pages:http://zisuu.gitee.io/yunheng_blog/
+目前已更新文章:
+
+Summary
+
+- Introduction
+
+- 1.项目目录解释
+- 2.权鉴模块
+  - 2.1 请求权限--复习spring Aop
+  - 2.2 请求权限--自定义aop实现请求权限认证
+  - 2.3 springSecurity tokenFilter
+  - 2.4 vue-router页面跳装权限拦截
+  - 2.5 初步学习vue+vuex实现按钮级别的权限控制
+  - 2.6 实现按钮级别权限控制
+
+- 3.搜索模块
+- 4.评论点赞模块
+  
 ## 项目介绍
 
 - 云衡博客，一个基于微服务架构的前后端分离博客系统。
