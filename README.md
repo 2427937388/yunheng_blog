@@ -39,7 +39,7 @@ Summary
   - 2.1 请求权限--复习spring Aop
   - 2.2 请求权限--自定义aop实现请求权限认证
   - 2.3 springSecurity tokenFilter
-  - 2.4 vue-router页面跳装权限拦截
+  - 2.4 vue-router页面跳转权限拦截
   - 2.5 初步学习vue+vuex实现按钮级别的权限控制
   - 2.6 实现按钮级别权限控制
 
